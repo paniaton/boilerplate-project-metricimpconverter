@@ -22,7 +22,7 @@
 		"zombie": "^5.0.8"
 	},
 	"engines": {
-		"node": "4.4.3"
+		"node": "8.17.0"
 	},
 	"repository": {
 		"type": "git",
